@@ -110,7 +110,7 @@ source $ZSH/oh-my-zsh.sh
 
 ## GIT ##
 alias ga="git add"
-alias gcm="git commit -m"
+alias gcm="git commit -S -m"
 alias gs="git status"
 alias gc="git checkout"
 alias gf="git fetch --all"
